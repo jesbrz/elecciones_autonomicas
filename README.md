@@ -2,7 +2,7 @@
 Repositorio para los resultados de todas las elecciones autonómicas en España. En una parte de los casos es difícil encontrar resultados no sólo ya a nivel de mesa, si no incluso de municipio.
 Cualquier contribución es bien recibida.
 
-Faltan datos de:
+<b>Faltan datos de:</b>
 - Andalucía: todos los procesos electorales menos 2022.
 - Aragón: no hay datos entre 1983 y 2007.
 - Asturias: no hay datos por mesas
@@ -20,3 +20,4 @@ Faltan datos de:
 - Galicia: faltan los resultados por mesas entrre 1981 y 1997.
 - La Rioja: completo.
 - Región de Murcia: faltan datos desde 1987 a 1995.
+
