@@ -9,7 +9,7 @@ Faltan datos de:
 - Baleares: no hay ningún dato.
 - Canarias: no hay ningún dato.
 - Cantabria: no hay datos por mesas.
-- Castilla - La Mancha: no hay datos por mesas salvo de 2023.
+- Castilla - La Mancha: no hay datos por mesas y falta 2023.
 - Castilla y León: completo.
 - Catalunya: completo.
 - Comunidad de Madrid: completo.
