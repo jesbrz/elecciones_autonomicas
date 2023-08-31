@@ -12,7 +12,7 @@ Cualquier contribución es bien recibida.
 - Castilla - La Mancha: no hay datos por mesas y falta 2023.
 - Castilla y León: completo.
 - Catalunya: completo.
-- Comunidad de Madrid: completo.
+- Comunidad de Madrid: faltan años 1983, 1987 y 1991.
 - Comuniddad Foral de Navarra: completo.
 - Comunidad Valenciana: por mesas entre 1983 y 1991.
 - Euskadi: completo.
